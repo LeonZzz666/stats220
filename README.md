@@ -9,3 +9,5 @@
 2. I think this meme vividly depicts how people behave when they are frustrated. 
 
 **Let's see it！**
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZcqbX77pykRfea06YkTapmdYz0yKc8Zk9rQ&usqp=CAU)
