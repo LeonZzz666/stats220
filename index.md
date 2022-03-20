@@ -5,7 +5,7 @@
 
 ![](https://s2.loli.net/2022/03/20/g1oqUBeZDNOFbX5.png)
 ## *The image I used for my meme are two cats:*
-* [Smile cat](https://fanfiber.com/blogs/news/polite-cat-meme-went-viral-is-a-cat-can-possibly-smiling)
+* [Smiling cat](https://fanfiber.com/blogs/news/polite-cat-meme-went-viral-is-a-cat-can-possibly-smiling)
 
 ![](https://cdn.shopify.com/s/files/1/2195/6819/files/Screen_Shot_2020-04-14_at_3.46.02_PM_large.png?v=1586854010)
 * [Crying cat](https://knowyourmeme.com/photos/1434447-crying-cat)
