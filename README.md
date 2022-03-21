@@ -1,5 +1,5 @@
 # Stats220
-*Hello everyone, I'm a student of UoA.* 
+*Hello everyone, I'm a student of [UoA](https://www.auckland.ac.nz/en.html).* 
 
 **Wellcome to my [Stats220 repo.](https://github.com/LeonZzz666/stats220)**
 
