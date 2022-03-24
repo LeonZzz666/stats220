@@ -23,7 +23,7 @@ crying_cat <- image_read("https://i.kym-cdn.com/photos/images/original/001/434/4
   image_scale(500)
 
 
-stats_text <- image_blank(width = 500, 
+alone_text <- image_blank(width = 500, 
                           height = 500, 
                           color = "#000000") %>%
   image_annotate(text = "Facing frustration\nalone",
@@ -32,7 +32,7 @@ stats_text <- image_blank(width = 500,
                  font = "Impact",
                  gravity = "center")
 
-comp_text <- image_blank(width = 500, 
+alright_text <- image_blank(width = 500, 
                          height = 500, 
                          color = "#000000") %>%
   image_annotate(text = "When someone\nasks me:\nAre you alright?",
@@ -42,10 +42,10 @@ comp_text <- image_blank(width = 500,
                  gravity = "center")
 
 
-first_row <- c(smile_cat, stats_text) %>%
+first_row <- c(smile_cat, alone_text) %>%
   image_append()
 
-second_row <- c(crying_cat, comp_text) %>%
+second_row <- c(crying_cat, alright_text) %>%
   image_append()
 
 
